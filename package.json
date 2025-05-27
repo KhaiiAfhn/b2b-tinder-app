@@ -1,0 +1,17 @@
+{
+  "name": "B2B_Tinder_App",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@react-navigation/native": "^6.1.0",
+    "@react-navigation/native-stack": "^6.9.0",
+    "expo": "^53.0.9",
+    "firebase": "^11.8.1",
+    "react": "18.2.0",
+    "react-native": "0.71.0",
+    "react-native-deck-swiper": "^1.1.7",
+    "react-native-gesture-handler": "^2.12.0",
+    "react-native-safe-area-context": "^4.7.0",
+    "sendbird": "^3.0.126"
+  }
+}
